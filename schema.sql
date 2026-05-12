@@ -1,0 +1,20 @@
+-- CREATE DATABASE delta_app;
+
+-- USE delta_app;
+ 
+-- CREATE TABLE temp(
+-- 	id INT PRIMARY KEY
+-- ); 
+
+-- ABOVE QUERY IN MYSQL WORKBENCH -- ALL FOUR METHOD TO ACCESS DB IS SYNCED means
+-- reflect changes in all method
+
+SHOW TABLES;
+
+
+-- CREATE TABLE user(
+--     id VARCHAR(50) PRIMARY KEY,
+--     username VARCHAR(50) UNIQUE,
+--     email VARCHAR(50) UNIQUE NOT NULL,
+--     password VARCHAR(50) NOT NULL
+-- );
